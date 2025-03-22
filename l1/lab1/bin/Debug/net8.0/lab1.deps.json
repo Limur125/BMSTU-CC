@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "lab1/1.0.0": {
+        "dependencies": {
+          "Graphviz": "2.38.0.2"
+        },
+        "runtime": {
+          "lab1.dll": {}
+        }
+      },
+      "Graphviz/2.38.0.2": {
+        "runtime": {
+          "lib/Graphviz.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "lab1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Graphviz/2.38.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-MPtG+Mf0fvuwuL1b0+9BghMeE4QHgaXLvRDSxrEHngU2/cNjE1N6pljiOrLptyOt/LfML8F/NGlT6i8VGS628w==",
+      "path": "graphviz/2.38.0.2",
+      "hashPath": "graphviz.2.38.0.2.nupkg.sha512"
+    }
+  }
+}

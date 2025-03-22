@@ -1,0 +1,227 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "Graphviz/2.38.0.2": {
+        "type": "package",
+        "compile": {
+          "lib/_._": {}
+        },
+        "runtime": {
+          "lib/Graphviz.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Graphviz/2.38.0.2": {
+      "sha512": "MPtG+Mf0fvuwuL1b0+9BghMeE4QHgaXLvRDSxrEHngU2/cNjE1N6pljiOrLptyOt/LfML8F/NGlT6i8VGS628w==",
+      "type": "package",
+      "path": "graphviz/2.38.0.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "GVedit.html",
+        "Graphviz.ini",
+        "New Text Document.txt",
+        "Pathplan.dll",
+        "QtCore4.dll",
+        "QtGui4.dll",
+        "Settings.ini",
+        "Temp.rar",
+        "acyclic.exe",
+        "ann.dll",
+        "bcomps.exe",
+        "ccomps.exe",
+        "cdt.dll",
+        "cgraph.dll",
+        "circo.exe",
+        "config.h",
+        "config6",
+        "diffimg.exe",
+        "dijkstra.exe",
+        "dot.exe",
+        "dotty.exe",
+        "edgepaint.exe",
+        "exparse.h",
+        "fc-cache.exe",
+        "fc-cat.exe",
+        "fc-list.exe",
+        "fc-match.exe",
+        "fdp.exe",
+        "fontconfig.dll",
+        "fontconfig_fix.dll",
+        "freetype6.dll",
+        "gc.exe",
+        "gd.tgz",
+        "gd.zip",
+        "getopt.h",
+        "glut32.dll",
+        "gml2gv.exe",
+        "graphml2gv.exe",
+        "graphviz.2.38.0.2.nupkg.sha512",
+        "graphviz.nuspec",
+        "gts.lib",
+        "gts.tgz",
+        "gv2gml.exe",
+        "gvc.dll",
+        "gvcolor.exe",
+        "gvedit.exe",
+        "gvgen.exe",
+        "gvmap.exe",
+        "gvpack.exe",
+        "gvplugin_core.dll",
+        "gvplugin_dot_layout.dll",
+        "gvplugin_gd.dll",
+        "gvplugin_gdiplus.dll",
+        "gvplugin_neato_layout.dll",
+        "gvplugin_pango.dll",
+        "gvpr.exe",
+        "gxl2gv.exe",
+        "iconv.dll",
+        "intl.dll",
+        "jpeg62.dll",
+        "lefty.exe",
+        "lib/Graphviz.dll",
+        "libatk-1.0-0.dll",
+        "libcairo-2.dll",
+        "libexpat-1.dll",
+        "libexpat.dll",
+        "libfontconfig-1.dll",
+        "libfreetype-6.dll",
+        "libgdk-win32-2.0-0.dll",
+        "libgdk_pixbuf-2.0-0.dll",
+        "libgdkglext-win32-1.0-0.dll",
+        "libgio-2.0-0.dll",
+        "libglade-2.0-0.dll",
+        "libglib-2.0-0.dll",
+        "libgmodule-2.0-0.dll",
+        "libgobject-2.0-0.dll",
+        "libgthread-2.0-0.dll",
+        "libgtk-win32-2.0-0.dll",
+        "libgtkglext-win32-1.0-0.dll",
+        "libltdl-3.dll",
+        "libpango-1.0-0.dll",
+        "libpangocairo-1.0-0.dll",
+        "libpangoft2-1.0-0.dll",
+        "libpangowin32-1.0-0.dll",
+        "libpng12.dll",
+        "libpng14-14.dll",
+        "librsvg-2-2.dll",
+        "libxml2.dll",
+        "lneato.exe",
+        "ltdl.dll",
+        "mingle.exe",
+        "mm2gv.exe",
+        "neato.exe",
+        "nop.exe",
+        "osage.exe",
+        "patchwork.exe",
+        "props.txt",
+        "prune.exe",
+        "sccmap.exe",
+        "sfdp.exe",
+        "smyrna.exe",
+        "tred.exe",
+        "twopi.exe",
+        "unflatten.exe",
+        "vmalloc.dll",
+        "zlib1.dll"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "Graphviz >= 2.38.0.2"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Алексей\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\vuz\\BMSTU-ALL\\CC\\l1\\lab1\\lab1.csproj",
+      "projectName": "lab1",
+      "projectPath": "C:\\vuz\\BMSTU-ALL\\CC\\l1\\lab1\\lab1.csproj",
+      "packagesPath": "C:\\Users\\Алексей\\.nuget\\packages\\",
+      "outputPath": "C:\\vuz\\BMSTU-ALL\\CC\\l1\\lab1\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Алексей\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "dependencies": {
+          "Graphviz": {
+            "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+            "suppressParent": "All",
+            "target": "Package",
+            "version": "[2.38.0.2, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Пакет \"Graphviz 2.38.0.2\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\", а не целевой платформы проекта \"net8.0\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "libraryId": "Graphviz",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

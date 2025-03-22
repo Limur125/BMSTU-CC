@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "WFodkq2EOQE=",
+  "success": true,
+  "projectFilePath": "C:\\vuz\\BMSTU-ALL\\CC\\l1\\lab1\\lab1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Алексей\\.nuget\\packages\\graphviz\\2.38.0.2\\graphviz.2.38.0.2.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Пакет \"Graphviz 2.38.0.2\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\", а не целевой платформы проекта \"net8.0\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "libraryId": "Graphviz",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
