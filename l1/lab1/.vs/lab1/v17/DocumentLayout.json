@@ -1,33 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\vuz\\BMSTU-ALL\\CC\\l1\\lab1\\",
+  "WorkspaceRootPath": "C:\\vuz\\cc\\BMSTU-CC\\l1\\lab1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5D5E1E31-069D-4E79-8726-FCC6CA4353C7}|lab1.csproj|c:\\vuz\\bmstu-all\\cc\\l1\\lab1\\mindfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D5E1E31-069D-4E79-8726-FCC6CA4353C7}|lab1.csproj|solutionrelative:mindfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D5E1E31-069D-4E79-8726-FCC6CA4353C7}|lab1.csproj|c:\\vuz\\bmstu-all\\cc\\l1\\lab1\\dfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D5E1E31-069D-4E79-8726-FCC6CA4353C7}|lab1.csproj|solutionrelative:dfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D5E1E31-069D-4E79-8726-FCC6CA4353C7}|lab1.csproj|c:\\vuz\\bmstu-all\\cc\\l1\\lab1\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D5E1E31-069D-4E79-8726-FCC6CA4353C7}|lab1.csproj|solutionrelative:node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D5E1E31-069D-4E79-8726-FCC6CA4353C7}|lab1.csproj|c:\\vuz\\bmstu-all\\cc\\l1\\lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5D5E1E31-069D-4E79-8726-FCC6CA4353C7}|lab1.csproj|c:\\vuz\\cc\\bmstu-cc\\l1\\lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5D5E1E31-069D-4E79-8726-FCC6CA4353C7}|lab1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D5E1E31-069D-4E79-8726-FCC6CA4353C7}|lab1.csproj|c:\\vuz\\bmstu-all\\cc\\l1\\lab1\\regextree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5D5E1E31-069D-4E79-8726-FCC6CA4353C7}|lab1.csproj|c:\\vuz\\cc\\bmstu-cc\\l1\\lab1\\mindfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D5E1E31-069D-4E79-8726-FCC6CA4353C7}|lab1.csproj|solutionrelative:mindfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D5E1E31-069D-4E79-8726-FCC6CA4353C7}|lab1.csproj|c:\\vuz\\cc\\bmstu-cc\\l1\\lab1\\dfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D5E1E31-069D-4E79-8726-FCC6CA4353C7}|lab1.csproj|solutionrelative:dfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D5E1E31-069D-4E79-8726-FCC6CA4353C7}|lab1.csproj|c:\\vuz\\cc\\bmstu-cc\\l1\\lab1\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D5E1E31-069D-4E79-8726-FCC6CA4353C7}|lab1.csproj|solutionrelative:node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D5E1E31-069D-4E79-8726-FCC6CA4353C7}|lab1.csproj|c:\\vuz\\cc\\bmstu-cc\\l1\\lab1\\regextree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5D5E1E31-069D-4E79-8726-FCC6CA4353C7}|lab1.csproj|solutionrelative:regextree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D5E1E31-069D-4E79-8726-FCC6CA4353C7}|lab1.csproj|c:\\vuz\\bmstu-all\\cc\\l1\\lab1\\regexparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5D5E1E31-069D-4E79-8726-FCC6CA4353C7}|lab1.csproj|c:\\vuz\\cc\\bmstu-cc\\l1\\lab1\\regexparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5D5E1E31-069D-4E79-8726-FCC6CA4353C7}|lab1.csproj|solutionrelative:regexparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D5E1E31-069D-4E79-8726-FCC6CA4353C7}|lab1.csproj|c:\\vuz\\bmstu-all\\cc\\l1\\lab1\\consts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5D5E1E31-069D-4E79-8726-FCC6CA4353C7}|lab1.csproj|c:\\vuz\\cc\\bmstu-cc\\l1\\lab1\\consts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5D5E1E31-069D-4E79-8726-FCC6CA4353C7}|lab1.csproj|solutionrelative:consts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -41,28 +41,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MinDFA.cs",
-              "DocumentMoniker": "C:\\vuz\\BMSTU-ALL\\CC\\l1\\lab1\\MinDFA.cs",
+              "DocumentMoniker": "C:\\vuz\\cc\\BMSTU-CC\\l1\\lab1\\MinDFA.cs",
               "RelativeDocumentMoniker": "MinDFA.cs",
-              "ToolTip": "C:\\vuz\\BMSTU-ALL\\CC\\l1\\lab1\\MinDFA.cs",
+              "ToolTip": "C:\\vuz\\cc\\BMSTU-CC\\l1\\lab1\\MinDFA.cs",
               "RelativeToolTip": "MinDFA.cs",
-              "ViewState": "AgIAAIsAAAAAAAAAAAAQwJ0AAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAQwJ0AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-20T12:31:32.31Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "DFA.cs",
-              "DocumentMoniker": "C:\\vuz\\BMSTU-ALL\\CC\\l1\\lab1\\DFA.cs",
+              "DocumentMoniker": "C:\\vuz\\cc\\BMSTU-CC\\l1\\lab1\\DFA.cs",
               "RelativeDocumentMoniker": "DFA.cs",
-              "ToolTip": "C:\\vuz\\BMSTU-ALL\\CC\\l1\\lab1\\DFA.cs",
+              "ToolTip": "C:\\vuz\\cc\\BMSTU-CC\\l1\\lab1\\DFA.cs",
               "RelativeToolTip": "DFA.cs",
               "ViewState": "AgIAAGUAAAAAAAAAAAAvwHcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -70,11 +70,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Node.cs",
-              "DocumentMoniker": "C:\\vuz\\BMSTU-ALL\\CC\\l1\\lab1\\Node.cs",
+              "DocumentMoniker": "C:\\vuz\\cc\\BMSTU-CC\\l1\\lab1\\Node.cs",
               "RelativeDocumentMoniker": "Node.cs",
-              "ToolTip": "C:\\vuz\\BMSTU-ALL\\CC\\l1\\lab1\\Node.cs",
+              "ToolTip": "C:\\vuz\\cc\\BMSTU-CC\\l1\\lab1\\Node.cs",
               "RelativeToolTip": "Node.cs",
               "ViewState": "AgIAAJQAAAAAAAAAAAAqwKYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -84,9 +84,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Consts.cs",
-              "DocumentMoniker": "C:\\vuz\\BMSTU-ALL\\CC\\l1\\lab1\\Consts.cs",
+              "DocumentMoniker": "C:\\vuz\\cc\\BMSTU-CC\\l1\\lab1\\Consts.cs",
               "RelativeDocumentMoniker": "Consts.cs",
-              "ToolTip": "C:\\vuz\\BMSTU-ALL\\CC\\l1\\lab1\\Consts.cs",
+              "ToolTip": "C:\\vuz\\cc\\BMSTU-CC\\l1\\lab1\\Consts.cs",
               "RelativeToolTip": "Consts.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAAwA8AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -96,10 +96,10 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "NFA.cs",
-              "DocumentMoniker": "C:\\vuz\\CC\\l1\\lab1\\NFA.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\CC\\l1\\lab1\\NFA.cs",
-              "ToolTip": "C:\\vuz\\CC\\l1\\lab1\\NFA.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\CC\\l1\\lab1\\NFA.cs",
+              "DocumentMoniker": "C:\\vuz\\cc\\l1\\lab1\\NFA.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\l1\\lab1\\NFA.cs",
+              "ToolTip": "C:\\vuz\\cc\\l1\\lab1\\NFA.cs",
+              "RelativeToolTip": "..\\..\\..\\l1\\lab1\\NFA.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-04T11:28:53.429Z"
             },
@@ -107,9 +107,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "RegexTree.cs",
-              "DocumentMoniker": "C:\\vuz\\BMSTU-ALL\\CC\\l1\\lab1\\RegexTree.cs",
+              "DocumentMoniker": "C:\\vuz\\cc\\BMSTU-CC\\l1\\lab1\\RegexTree.cs",
               "RelativeDocumentMoniker": "RegexTree.cs",
-              "ToolTip": "C:\\vuz\\BMSTU-ALL\\CC\\l1\\lab1\\RegexTree.cs",
+              "ToolTip": "C:\\vuz\\cc\\BMSTU-CC\\l1\\lab1\\RegexTree.cs",
               "RelativeToolTip": "RegexTree.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAAwAkAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -119,9 +119,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "RegexParser.cs",
-              "DocumentMoniker": "C:\\vuz\\BMSTU-ALL\\CC\\l1\\lab1\\RegexParser.cs",
+              "DocumentMoniker": "C:\\vuz\\cc\\BMSTU-CC\\l1\\lab1\\RegexParser.cs",
               "RelativeDocumentMoniker": "RegexParser.cs",
-              "ToolTip": "C:\\vuz\\BMSTU-ALL\\CC\\l1\\lab1\\RegexParser.cs",
+              "ToolTip": "C:\\vuz\\cc\\BMSTU-CC\\l1\\lab1\\RegexParser.cs",
               "RelativeToolTip": "RegexParser.cs",
               "ViewState": "AgIAADIAAAAAAAAAAAAWwF8AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -129,15 +129,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\vuz\\BMSTU-ALL\\CC\\l1\\lab1\\Program.cs",
+              "DocumentMoniker": "C:\\vuz\\cc\\BMSTU-CC\\l1\\lab1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\vuz\\BMSTU-ALL\\CC\\l1\\lab1\\Program.cs",
+              "ToolTip": "C:\\vuz\\cc\\BMSTU-CC\\l1\\lab1\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAAwC8AAABKAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAwDYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T13:47:35.16Z"
+              "WhenOpened": "2025-03-03T13:47:35.16Z",
+              "EditorCaption": ""
             }
           ]
         }

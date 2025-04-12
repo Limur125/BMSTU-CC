@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\vuz\\cc\\BMSTU-CC\\l2\\ConsoleApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D3CB5FE5-6F1C-4645-8819-A7BACDEB6AFA}|ConsoleApp1.csproj|c:\\vuz\\cc\\bmstu-cc\\l2\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3CB5FE5-6F1C-4645-8819-A7BACDEB6AFA}|ConsoleApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D3CB5FE5-6F1C-4645-8819-A7BACDEB6AFA}|ConsoleApp1.csproj|c:\\vuz\\cc\\bmstu-cc\\l2\\consoleapp1\\grammar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D3CB5FE5-6F1C-4645-8819-A7BACDEB6AFA}|ConsoleApp1.csproj|solutionrelative:grammar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3CB5FE5-6F1C-4645-8819-A7BACDEB6AFA}|ConsoleApp1.csproj|c:\\vuz\\cc\\bmstu-cc\\l2\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3CB5FE5-6F1C-4645-8819-A7BACDEB6AFA}|ConsoleApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,24 +18,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Grammar.cs",
               "DocumentMoniker": "C:\\vuz\\cc\\BMSTU-CC\\l2\\ConsoleApp1\\Grammar.cs",
               "RelativeDocumentMoniker": "Grammar.cs",
               "ToolTip": "C:\\vuz\\cc\\BMSTU-CC\\l2\\ConsoleApp1\\Grammar.cs",
               "RelativeToolTip": "Grammar.cs",
-              "ViewState": "AgIAAL0AAAAAAAAAAAAAALQAAAB0AAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAjwB0AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-03T16:01:25.27Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\vuz\\cc\\BMSTU-CC\\l2\\ConsoleApp1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",

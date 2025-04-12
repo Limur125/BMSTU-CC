@@ -1,6 +1,9 @@
-E T F
-+ * ( ) a
-E -> E + T | T
-T -> T * F | F
-F -> a | ( E )
-E
+Expr LogicExpr LogicMono SecondLogicExpr PrimaryLogicExpr LogicLitera LogicOper
+~ identifier true false & !
+Expr -> LogicExpr
+LogicExpr -> LogicMono | LogicExpr ! LogicMono
+LogicMono -> SecondLogicExpr | LogicMono & SecondLogicExpr
+SecondLogicExpr -> PrimaryLogicExpr | ~ PrimaryLogicExpr
+PrimaryLogicExpr -> LogicLitera | identifier
+LogicLitera -> true | false
+LogicOper -> ~ | & | !

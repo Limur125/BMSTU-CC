@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\vuz\\cc\\BMSTU-CC\\l3\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0DEB96E8-E866-4175-86FD-73F0B64DDA21}|ConsoleApp1.csproj|c:\\vuz\\cc\\bmstu-cc\\l3\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DEB96E8-E866-4175-86FD-73F0B64DDA21}|ConsoleApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DEB96E8-E866-4175-86FD-73F0B64DDA21}|ConsoleApp1.csproj|c:\\vuz\\cc\\bmstu-cc\\l3\\consoleapp1\\lexer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DEB96E8-E866-4175-86FD-73F0B64DDA21}|ConsoleApp1.csproj|solutionrelative:lexer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DEB96E8-E866-4175-86FD-73F0B64DDA21}|ConsoleApp1.csproj|c:\\vuz\\cc\\bmstu-cc\\l3\\consoleapp1\\analyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DEB96E8-E866-4175-86FD-73F0B64DDA21}|ConsoleApp1.csproj|solutionrelative:analyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Analyzer.cs",
+              "DocumentMoniker": "C:\\vuz\\cc\\BMSTU-CC\\l3\\ConsoleApp1\\Analyzer.cs",
+              "RelativeDocumentMoniker": "Analyzer.cs",
+              "ToolTip": "C:\\vuz\\cc\\BMSTU-CC\\l3\\ConsoleApp1\\Analyzer.cs",
+              "RelativeToolTip": "Analyzer.cs",
+              "ViewState": "AgIAACcBAAAAAAAAAAAAADUBAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T13:44:49.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lexer.cs",
+              "DocumentMoniker": "C:\\vuz\\cc\\BMSTU-CC\\l3\\ConsoleApp1\\Lexer.cs",
+              "RelativeDocumentMoniker": "Lexer.cs",
+              "ToolTip": "C:\\vuz\\cc\\BMSTU-CC\\l3\\ConsoleApp1\\Lexer.cs",
+              "RelativeToolTip": "Lexer.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAWwFkAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T12:33:29.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\vuz\\cc\\BMSTU-CC\\l3\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\vuz\\cc\\BMSTU-CC\\l3\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T12:31:56.75Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

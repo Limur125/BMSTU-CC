@@ -142,11 +142,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\vuz\\BMSTU-ALL\\CC\\l1\\lab1\\lab1.csproj",
+      "projectUniqueName": "C:\\vuz\\cc\\BMSTU-CC\\l1\\lab1\\lab1.csproj",
       "projectName": "lab1",
-      "projectPath": "C:\\vuz\\BMSTU-ALL\\CC\\l1\\lab1\\lab1.csproj",
+      "projectPath": "C:\\vuz\\cc\\BMSTU-CC\\l1\\lab1\\lab1.csproj",
       "packagesPath": "C:\\Users\\Алексей\\.nuget\\packages\\",
-      "outputPath": "C:\\vuz\\BMSTU-ALL\\CC\\l1\\lab1\\obj\\",
+      "outputPath": "C:\\vuz\\cc\\BMSTU-CC\\l1\\lab1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

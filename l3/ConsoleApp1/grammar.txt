@@ -1,0 +1,30 @@
+Expr LogicExpr LogicMono SecondLogicExpr PrimaryLogicExpr LogicLitera Program Block OperList Oper Tail
+~ identifier true false & ! { } ; eps
+Program -> Block
+Block -> { OperList }
+OperList -> Oper Tail
+Tail -> ; Oper Tail | eps
+Oper -> identifier = Expr | Block
+Expr -> LogicExpr
+LogicExpr -> LogicMono LogicExpr1
+LogicMono -> SecondLogicExpr LogicMono1
+SecondLogicExpr -> PrimaryLogicExpr | ~ PrimaryLogicExpr
+PrimaryLogicExpr -> LogicLitera | identifier
+LogicLitera -> true | false
+LogicExpr1 -> ! LogicMono LogicExpr1 | eps
+LogicMono1 -> & SecondLogicExpr LogicMono1 | eps
+
+
+FIRST
+Program			{
+Block			{
+OperList		identifier {
+Tail			; eps
+Expr			~ identifier true false
+LogicExpr		~ identifier true false
+LogicMono		~ identifier true false
+SecondLogicExpr		~ identifier true false
+PrimaryLogicExpr	identifier true false
+LogicLitera		true false
+LogicExpr1		! eps
+LogicMono1		& eps
