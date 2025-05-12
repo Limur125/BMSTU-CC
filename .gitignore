@@ -1,0 +1,8 @@
+﻿################################################################################
+# Данный GITIGNORE-файл был автоматически создан Microsoft(R) Visual Studio.
+################################################################################
+
+/l4/ConsoleApp1/.vs/ConsoleApp1
+/l4/ConsoleApp1/bin/Debug/net8.0
+/l4/ConsoleApp1/obj/Debug/net8.0
+/l4/ConsoleApp1/obj
